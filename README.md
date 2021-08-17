@@ -1,1 +1,0 @@
-# rbktn16-prep-js-koans
